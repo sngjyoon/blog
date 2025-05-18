@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Hello world!"
+date:   2025-05-17 19:37:43 -0400
+categories: helloworld
+---
+This is my first post to the world. 
+
+**I would like to test few things here.**
+
+Is *I want to link* other website, I can do [like this][Google]. 
+
+> What if I write like this?
+> Is this going to show verticle line?
+
+What if I want to refer to [my other post][Welcome to jekyll!]?
+
+
+Adding photo will be like this:
+![cat with sunglass](/assests/images/Screenshot%202025-05-07%20at%2021.19.57.png)
+
+한글은 어떨까? 이렇게 입력하면 덜 피곤할까? 정말 그러네??? 뭐야 이거. 잘 입력되잖아!!!!!
+
+
+# What about headings?
+
+Do you want to make some changes?
+
+[Welcome to jekyll!]: https://sngjyoon.github.io/jekyll/update/2025/05/17/welcome-to-jekyll.html
+[Google]: https://www.google.com
