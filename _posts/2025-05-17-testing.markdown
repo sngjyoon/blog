@@ -16,8 +16,7 @@ Is *I want to link* other website, I can do [like this][Google].
 What if I want to refer to [my other post][Welcome to jekyll!]?
 
 
-Adding photo will be like this:
-![cat with sunglass](/assests/images/Screenshot%202025-05-07%20at%2021.19.57.png)
+Adding photo will be like this: <img src="{{site.baseurl}}/assets/images/catwithsunglass>
 
 한글도 이렇게 잘 입력이 된답니다.
 
