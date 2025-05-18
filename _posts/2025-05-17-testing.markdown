@@ -19,7 +19,7 @@ What if I want to refer to [my other post][Welcome to jekyll!]?
 Adding photo will be like this:
 ![cat with sunglass](/assests/images/Screenshot%202025-05-07%20at%2021.19.57.png)
 
-한글은 어떨까? 이렇게 입력하면 덜 피곤할까? 정말 그러네??? 뭐야 이거. 잘 입력되잖아!!!!!
+한글도 이렇게 잘 입력이 된답니다.
 
 
 # What about headings?
