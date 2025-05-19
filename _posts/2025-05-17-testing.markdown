@@ -11,19 +11,45 @@ This is my first post to the world.
 Is *I want to link* other website, I can do [like this][Google]. 
 
 > What if I write like this?
+>
 > Is this going to show verticle line?
 
 What if I want to refer to [my other post][Welcome to jekyll!]?
 
 
-Adding photo will be like this: <img src="{{site.baseurl}}/assets/images/catwithsunglass>
+Adding photo will be like this: 
 
-한글도 이렇게 잘 입력이 된답니다.
+<img src="/blog/assests/img/catwithsunglass.png" width="100" height="100">
 
+![cat image](/blog/assests/img/catwithsunglass.png)
 
-# What about headings?
+한글도 이렇게 잘 입력이 된답니다. &copy;
+
+<br>
+
+---
+<br>
+
+# What about headings? 
 
 Do you want to make some changes?
+What about adding line right below?
+
+If I make a space between sentences, does this affect the page?
+
+
+To add raw url, try <https://www.makrdowguide.org>
+
+# Todo list
+
+- What markdown style does jekyll using? not the same one with obsidian
+- How can i <ins>hide repo</ins> but host website?
+- now it's on, i need to write a blog
+- also i want to make a resource so that i can organize and use it for future courses
+    - subject can be deep learning, machine learning, python, healthcare
+
+
+[I can hide some words?]: #
 
 [Welcome to jekyll!]: https://sngjyoon.github.io/jekyll/update/2025/05/17/welcome-to-jekyll.html
 [Google]: https://www.google.com
