@@ -21,7 +21,8 @@
 title: Welcome to my blog
 email: yoons8@mail.uc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my brain. This is a blog where I share my poorly written writings and ideas.
+  Welcome to my brain. This is a blog where I share my poorly written writings and ideas. Hopefully, you 
+  find something useful here.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://www.sngjyoon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
