@@ -17,6 +17,16 @@ Is *I want to link* other website, I can do [like this][Google].
 What if I want to refer to [my other post][Welcome to jekyll!]?
 
 
+`can this make code block?` <- yes it does.
+
+```python
+if __name__ == "__main__":
+    print("hello world")
+```
+
+
+
+
 Adding photo will be like this: 
 
 <img src="/blog/assests/img/catwithsunglass.png" width="100" height="100">
@@ -30,15 +40,24 @@ Adding photo will be like this:
 ---
 <br>
 
-# What about headings? 
+# Questions
+## Questions
+### Questions
+#### Questions
+##### Questions
+
+### What about headings? 
 
 Do you want to make some changes?
 What about adding line right below?
 
 If I make a space between sentences, does this affect the page?
 
+To add raw url, try <https://www.markdownguide.org>. You will find a helpful tutorial from [their lesson](https://www.markdowntutorial.com/lesson/1/).
 
-To add raw url, try <https://www.makrdowguide.org>
+---
+
+Visit [my website](<https://sngjyoon.com>) for more about me.
 
 # Todo list
 
