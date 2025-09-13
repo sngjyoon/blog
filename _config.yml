@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Welcome to my blog
-email: yoons8@mail.uc.edu
+email: sngjyoon@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my brain. This is a blog where I share my poorly written writings and ideas. Hopefully, you 
   find something useful here.
